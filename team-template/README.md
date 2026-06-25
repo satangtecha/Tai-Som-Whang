@@ -8,8 +8,8 @@
 
 ## 👥 ข้อมูลทีม
 - **ชื่อทีม:** ท้ายสมหวัง
-- **เลขทีม:** XX
-- **ชื่อบอร์ด:** team-XX-q
+- **เลขทีม:** 14
+- **ชื่อบอร์ด:** Uno Q t1
 - **สมาชิก + บทบาท (3H):**
   - 🛠️ **Hacker** (เทคนิค: ต่อบอร์ด/เก็บ data/train/deploy): ปรานต์
   - 🎨 **Hipster** (ผู้ใช้: output ที่คนเข้าใจ/รูปแบบใช้งาน): ลีโอ
@@ -18,12 +18,12 @@
 ## ✅ Checklist
 
 **ก่อนเริ่ม**
-- [ ] **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
+- ✅ **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
 
 **เช้า — ทำให้ UNO Q อยู่มือ**
-- [ ] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
-- [ ] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
-- [ ] ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
+- ✅ เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
+- ✅ ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
+- ✅ ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
 
 **บ่าย — เทรนจริง**
 - [ ] input ที่เลือกเทรน: _______________
